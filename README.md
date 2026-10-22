@@ -131,7 +131,6 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 <img width="1920" height="1080" alt="EXP 4" src="https://github.com/user-attachments/assets/4f3326bb-0835-4cd8-bd8c-e2262409c072" />
 <img width="1920" height="1080" alt="EXP 4(1)" src="https://github.com/user-attachments/assets/0396883f-fbc2-487f-bc25-3abb03c18d6c" />
 
-
 ## Viva-Voce Questions
 
 •	What is a Multiplexer, and why is it called a 'data selector'?
