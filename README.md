@@ -33,7 +33,6 @@ module demux1to2 (
     assign Y0 = (~S) & D;
     assign Y1 = S & D;
 endmodule
-```
 ## **Testbench Program
 module tb4;
     reg  A, B, S, D;
